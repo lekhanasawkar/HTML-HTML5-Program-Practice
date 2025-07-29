@@ -37,8 +37,8 @@ This project contains my hands-on practice with **HTML** and **HTML5** elements,
 
 ## 🛠 Tools Used
 
-- **Text Editor:** VS Code / Notepad++
-- **Browser:** Google Chrome / Firefox
+- **Text Editor:** VS Code 
+- **Browser:** Google Chrome 
 - **Version Control:** Git & GitHub
 
 ---
